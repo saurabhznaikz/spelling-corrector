@@ -1,4 +1,4 @@
-# spelling-corrector
+# Spelling-corrector
 
 ## About this project
 This project is used to correct the spelling by providing a sentence as a input and then getting correct sentence as an output
