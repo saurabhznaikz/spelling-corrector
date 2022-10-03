@@ -3,6 +3,10 @@
 ## About this project
 This project is used to correct the spelling by providing a sentence as a input and then getting correct sentence as an output
 
+
+## Project report
+To understand the project in deep detail please click [Detailed Project Report](https://github.com/saurabhznaikz/spelling-corrector/blob/main/spell_corrector.pdf)
+
 ## How to run the project
 Clone the repository
 ```bash
