@@ -1,6 +1,9 @@
 # Spelling-corrector
 
 
+![](https://user-images.githubusercontent.com/52929512/193520981-dd962138-472d-4d9e-8efd-7a16d06cbbbf.gif)
+
+
 
 ## About this project
 This project is used to correct the spelling by providing a sentence as a input and then getting correct sentence as an output
